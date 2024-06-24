@@ -7,7 +7,7 @@ AIGC的高速增长让很多人可以高效的使用和收益各种AI工具的�
 邮箱：info@51arena.com
 
 公司公众号：RA AI衍生者训练营
-
+![](https://www.shxcj.com/2024/05/18/%e6%8a%80%e6%9c%af%e6%94%af%e6%8c%81/#group=0&photo=0)
 技术支持
 微信技术支持群
 
