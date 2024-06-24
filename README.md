@@ -53,6 +53,7 @@ AIGC的高速增长让很多人可以高效的使用和收益各种AI工具的�
 [2-20 生成Game或者App图标的方法/](https://www.shxcj.com/2024/05/27/2-20-%e7%94%9f%e6%88%90game%e6%88%96%e8%80%85app%e5%9b%be%e6%a0%87%e7%9a%84%e6%96%b9%e6%b3%95/)
 
 
+
 初级课程-图生图
 
 [3-1 图生图关键词反推/](https://www.shxcj.com/2024/05/14/3-1-%e5%9b%be%e7%94%9f%e5%9b%be%e5%85%b3%e9%94%ae%e8%af%8d%e5%8f%8d%e6%8e%a8/)
@@ -73,19 +74,62 @@ AIGC的高速增长让很多人可以高效的使用和收益各种AI工具的�
 
 [3-9 Script脚本功能-及其放大能力/](https://www.shxcj.com/2024/05/14/3-9-script%e8%84%9a%e6%9c%ac%e5%8a%9f%e8%83%bd-%e5%8f%8a%e5%85%b6%e6%94%be%e5%a4%a7%e8%83%bd%e5%8a%9b/)
 
-[]()
 
-[]()
 
-[]()
 
-[]()
+初级课程-插件篇
 
-[]()
+[4-1 大模型预览图生成插件Thumbnailizer/](https://www.shxcj.com/2024/05/14/4-1-%e5%a4%a7%e6%a8%a1%e5%9e%8b%e9%a2%84%e8%a7%88%e5%9b%be%e7%94%9f%e6%88%90%e6%8f%92%e4%bb%b6thumbnailizer/)
 
-[]()
+[4-2 OpenPose插件-人物动作/](https://www.shxcj.com/2024/05/14/4-2-openpose%e6%8f%92%e4%bb%b6-%e4%ba%ba%e7%89%a9%e5%8a%a8%e4%bd%9c/)
 
-[]()
+[4-3 面部修复插件Adetailer/](https://www.shxcj.com/2024/05/14/4-3-%e9%9d%a2%e9%83%a8%e4%bf%ae%e5%a4%8d%e6%8f%92%e4%bb%b6adetailer/)
+
+[4-4 Deforum插件/](https://www.shxcj.com/2024/05/14/4-4-deforum%e6%8f%92%e4%bb%b6/)
+
+[4-5 TagComplete插件/](https://www.shxcj.com/2024/05/14/4-5-tagcomplete%e6%8f%92%e4%bb%b6/)
+
+[4-6 TabExtension插件/](https://www.shxcj.com/2024/05/14/4-6-tabextension%e6%8f%92%e4%bb%b6/)
+
+[4-7 完美图像放大器StableSR/](https://www.shxcj.com/2024/05/14/4-7-%e5%ae%8c%e7%be%8e%e5%9b%be%e5%83%8f%e6%94%be%e5%a4%a7%e5%99%a8stablesr/)
+
+[4-8 MoarGenerate浮动生成按钮/](https://www.shxcj.com/2024/05/14/4-8-moargenerate%e6%b5%ae%e5%8a%a8%e7%94%9f%e6%88%90%e6%8c%89%e9%92%ae/)
+
+[4-9 分多个人物神奇Latent Couple/](https://www.shxcj.com/2024/05/14/4-9-%e5%88%86%e5%a4%9a%e4%b8%aa%e4%ba%ba%e7%89%a9%e7%a5%9e%e5%a5%87latent-couple/)
+
+[4-10 ImageBrowser内置的图片浏览器/](https://www.shxcj.com/2024/05/14/4-10-imagebrowser%e5%86%85%e7%bd%ae%e7%9a%84%e5%9b%be%e7%89%87%e6%b5%8f%e8%a7%88%e5%99%a8/)
+
+[4-11 防止提示词颜色污染插件CutOff/](https://www.shxcj.com/2024/05/14/4-11-%e9%98%b2%e6%ad%a2%e6%8f%90%e7%a4%ba%e8%af%8d%e9%a2%9c%e8%89%b2%e6%b1%a1%e6%9f%93%e6%8f%92%e4%bb%b6cutoff/)
+
+[4-12 手部修复插件Depth Library/](https://www.shxcj.com/2024/05/14/4-12-%e6%89%8b%e9%83%a8%e4%bf%ae%e5%a4%8d%e6%8f%92%e4%bb%b6depth-library/)
+
+[4-13 抠图分块神器 Segment Anything/](https://www.shxcj.com/2024/05/14/4-13-%e6%8a%a0%e5%9b%be%e5%88%86%e5%9d%97%e7%a5%9e%e5%99%a8-segment-anything/)
+
+[4-14ultimate-upscale 超高清放大插件/](https://www.shxcj.com/2024/05/14/4-14ultimate-upscale-%e8%b6%85%e9%ab%98%e6%b8%85%e6%94%be%e5%a4%a7%e6%8f%92%e4%bb%b6/)
+
+[4-15 RegionalPrompter区域提示词插件/](https://www.shxcj.com/2024/05/14/4-15-regionalprompter%e5%8c%ba%e5%9f%9f%e6%8f%90%e7%a4%ba%e8%af%8d%e6%8f%92%e4%bb%b6/)
+
+[4-16 OldSix提示词/](https://www.shxcj.com/2024/05/14/4-16-oldsix%e6%8f%90%e7%a4%ba%e8%af%8d/)
+
+[4-17 old-photo-restoration 老照片修复/](https://www.shxcj.com/2024/05/14/4-17-old-photo-restoration-%e8%80%81%e7%85%a7%e7%89%87%e4%bf%ae%e5%a4%8d/)
+
+[4-18 OCR 扩展/](https://www.shxcj.com/2024/05/14/4-18-ocr-%e6%89%a9%e5%b1%95/)
+
+[4-19 ABG 背景去除/](https://www.shxcj.com/2024/05/14/4-19-abg-%e8%83%8c%e6%99%af%e5%8e%bb%e9%99%a4/)
+
+[4-20 给图片增加文字信息的插件/](https://www.shxcj.com/2024/05/14/4-20-%e7%bb%99%e5%9b%be%e7%89%87%e5%a2%9e%e5%8a%a0%e6%96%87%e5%ad%97%e4%bf%a1%e6%81%af%e7%9a%84%e6%8f%92%e4%bb%b6/)
+
+[4-21 SD的超强主题Theme/](https://www.shxcj.com/2024/05/14/4-21-sd%e7%9a%84%e8%b6%85%e5%bc%ba%e4%b8%bb%e9%a2%98theme/)
+
+[4-22 RMBG 背景去除 – 超强/](https://www.shxcj.com/2024/05/14/4-22-rmbg-%e8%83%8c%e6%99%af%e5%8e%bb%e9%99%a4-%e8%b6%85%e5%bc%ba/)
+
+[4-23 QRTookit 二维码生成/](https://www.shxcj.com/2024/05/14/4-23-qrtookit-%e4%ba%8c%e7%bb%b4%e7%a0%81%e7%94%9f%e6%88%90/)
+
+[4-24 pixelization像素画图片/](https://www.shxcj.com/2024/05/14/4-24-pixelization%e5%83%8f%e7%b4%a0%e7%94%bb%e5%9b%be%e7%89%87/)
+
+[4-25 infinite-zoom无限Zoom的视频制作/](https://www.shxcj.com/2024/05/14/4-25-infinite-zoom%e6%97%a0%e9%99%90zoom%e7%9a%84%e8%a7%86%e9%a2%91%e5%88%b6%e4%bd%9c/)
+
+
 
 中级课程
 
