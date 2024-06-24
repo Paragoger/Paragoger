@@ -7,19 +7,22 @@ AIGC的高速增长让很多人可以高效的使用和收益各种AI工具的�
 邮箱：info@51arena.com
 
 公司公众号：RA AI衍生者训练营
+
 ![](https://www.shxcj.com/wp-content/uploads/2024/06/2024060107270513.jpg)
-技术支持
+
 微信技术支持群
 
-技术支持
+![](https://www.shxcj.com/wp-content/uploads/2024/06/2024060107254516.jpg)
+
 知乎
 
-技术支持
+![](https://www.shxcj.com/wp-content/uploads/2024/05/2.png)
+
 QQ 技术支持群
 
-技术支持
+![](https://www.shxcj.com/wp-content/uploads/2024/05/1.png)
 
-
+<br/>
 
 <strong>初级课程-引导篇</strong>
 
@@ -31,7 +34,7 @@ QQ 技术支持群
 
 [1-4 插件安装与管理，让你的RA如虎添翼/](https://www.shxcj.com/2024/05/03/4-%e6%8f%92%e4%bb%b6%e5%ae%89%e8%a3%85%e4%b8%8e%e7%ae%a1%e7%90%86/)
 
-
+<br/>
 <strong>初级课程-文生图</strong>
 
 [2-1 大模型的概念/](https://www.shxcj.com/2024/05/03/2-1-%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%9a%84%e6%a6%82%e5%bf%b5/)
@@ -69,7 +72,7 @@ QQ 技术支持群
 [2-20 生成Game或者App图标的方法/](https://www.shxcj.com/2024/05/27/2-20-%e7%94%9f%e6%88%90game%e6%88%96%e8%80%85app%e5%9b%be%e6%a0%87%e7%9a%84%e6%96%b9%e6%b3%95/)
 
 
-
+<br/>
 <strong>初级课程-图生图</strong>
 
 [3-1 图生图关键词反推/](https://www.shxcj.com/2024/05/14/3-1-%e5%9b%be%e7%94%9f%e5%9b%be%e5%85%b3%e9%94%ae%e8%af%8d%e5%8f%8d%e6%8e%a8/)
@@ -146,7 +149,7 @@ QQ 技术支持群
 [4-25 infinite-zoom无限Zoom的视频制作/](https://www.shxcj.com/2024/05/14/4-25-infinite-zoom%e6%97%a0%e9%99%90zoom%e7%9a%84%e8%a7%86%e9%a2%91%e5%88%b6%e4%bd%9c/)
 
 
-
+<br/>
 <strong>中级课程-MidJourney课程</strong>
 
 [4.2.1 认识MJ和RA/SD的区别/](https://www.shxcj.com/2024/05/31/4-2-1-%e8%ae%a4%e8%af%86mj%e5%92%8cra-sd%e7%9a%84%e5%8c%ba%e5%88%ab/)
@@ -167,7 +170,7 @@ QQ 技术支持群
 
 [4.2.9 MJ中关键字的精要介绍/](https://www.shxcj.com/2024/05/31/4-2-9-mj%e4%b8%ad%e5%85%b3%e9%94%ae%e5%ad%97%e7%9a%84%e7%b2%be%e8%a6%81%e4%bb%8b%e7%bb%8d/)
 
-
+<br/>
 <strong>中级课程-ControlNet相关</strong>
 
 [5-1 ControlNet插件的设置与原理/](https://www.shxcj.com/2024/05/17/5-1-controlnet%e6%8f%92%e4%bb%b6%e7%9a%84%e8%ae%be%e7%bd%ae%e4%b8%8e%e5%8e%9f%e7%90%86/)
@@ -226,6 +229,7 @@ QQ 技术支持群
 [5-29 有趣的指令Pix2Pix(P2P)/](https://www.shxcj.com/2024/05/17/5-29-%e6%9c%89%e8%b6%a3%e7%9a%84%e6%8c%87%e4%bb%a4pix2pixp2p/)
 
 
+<br/>
 <strong>中级课程-ComfyUI课程</strong>
 
 [6-1 RA/CU(ComfyUI)的基础知识和RA/SD 的区别/](https://www.shxcj.com/2024/05/27/6-1-ra-cucomfyui%e7%9a%84%e5%9f%ba%e7%a1%80%e7%9f%a5%e8%af%86%e5%92%8cra-sd-%e7%9a%84%e5%8c%ba%e5%88%ab/)
@@ -247,6 +251,7 @@ QQ 技术支持群
 [6-9 在RA/CU 中Controlnet模块中实现精准化控图/](https://www.shxcj.com/2024/05/27/6-9-%e5%9c%a8ra-cu-%e4%b8%adcontrolnet%e6%a8%a1%e5%9d%97%e4%b8%ad%e5%ae%9e%e7%8e%b0%e7%b2%be%e5%87%86%e5%8c%96%e6%8e%a7%e5%9b%be/)
 
 
+<br/>
 <strong>中级课程-高级插件课程</strong>
 
 [4.1-1 IS-NET-Pro视频转图片的插件/](https://www.shxcj.com/2024/05/17/4-1-1-is-net-pro%e8%a7%86%e9%a2%91%e8%bd%ac%e5%9b%be%e7%89%87%e7%9a%84%e6%8f%92%e4%bb%b6/)
@@ -258,6 +263,7 @@ QQ 技术支持群
 [4.1-4 SadTalker数字人 语音和嘴唇对应的方案/](https://www.shxcj.com/2024/05/14/4-1-4-sadtalker%e6%95%b0%e5%ad%97%e4%ba%ba-%e8%af%ad%e9%9f%b3%e5%92%8c%e5%98%b4%e5%94%87%e5%af%b9%e5%ba%94%e7%9a%84%e6%96%b9%e6%a1%88/)
 
 
+<br/>
 <strong>高级课程-AI视频课程</strong>
 
 [8-1 使用RunWay制作AI视频/](https://www.shxcj.com/2024/05/22/8-1-%e4%bd%bf%e7%94%a8runway%e5%88%b6%e4%bd%9cai%e8%a7%86%e9%a2%91/)
@@ -270,6 +276,7 @@ QQ 技术支持群
 [3.1.3RA 番外篇 – 武侠风视频AI制作/](https://www.shxcj.com/2024/06/01/3-1-3ra-%e7%95%aa%e5%a4%96%e7%af%87-%e6%ad%a6%e4%be%a0%e9%a3%8e%e8%a7%86%e9%a2%91ai%e5%88%b6%e4%bd%9c/)
 
 
+<br/>
 <strong>高级课程-RAG课程</strong>
 
 [10-1 RAG基础介绍/](https://www.shxcj.com/2024/06/11/10-1-rag%e5%9f%ba%e7%a1%80%e4%bb%8b%e7%bb%8d/)
