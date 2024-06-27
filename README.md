@@ -1,4 +1,4 @@
-# Paragoer or RASD
+# Paragoger or RASD
 RA/SD is a localized and customized Stable Diffusion branch aimed for rookies.
 The rapid growth of AIGC has enabled many people to efficiently use and benefit from the capabilities of various AI tools. However, the complex usage process and advanced technical principles behind tools such as Stable Diffusion are intimidating to ordinary people. Therefore, in order to enable more ordinary people to learn and master relevant AI skills and tool systems, we established RASD, a branch based on the Stable Diffusion tool chain system, to try to provide more users with free learning resources and courses.
 
